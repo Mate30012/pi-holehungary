@@ -1,3 +1,4 @@
+0.0.0.0 https://rosszlanyok.hu/videkilanyok?utm_source=mozinet.me&utm_medium=160x600_videk&utm_campaign=mozinet.me
 0.0.0.0 filmvilag.me##[href^="https://rosszlanyok.hu/"]
 0.0.0.0 filmvilag.me##[style]:has(.adslot_1)
 0.0.0.0 ##.ad__main
