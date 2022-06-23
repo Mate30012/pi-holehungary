@@ -84,7 +84,6 @@
 0.0.0.0 hu##.hirdetesek
 0.0.0.0 hu###hirdetes
 0.0.0.0 hu###hirdetesek
-0.0.0.0 ! Section: Specific hide
 0.0.0.0 112press.hu##.banner_middle
 0.0.0.0 168.hu##.ads_show_ad_title
 0.0.0.0 168.hu##.banner-wrapper
@@ -173,7 +172,6 @@
 0.0.0.0 bacsmegye.hu##.minisite
 0.0.0.0 bacsmegye.hu##[id*="banner"]
 0.0.0.0 bacsmegye.hu###total
-0.0.0.0 ! https://github.com/hufilter/hufilter-dev/issues/255
 0.0.0.0 baon.hu##iframe[src="https://tunderszepek.baon.hu/tunderszepek-banner"]
 0.0.0.0 bebiztositva.hu##.widget_media_image
 0.0.0.0 beol.hu##[class*="adcikk"]
@@ -241,7 +239,6 @@
 0.0.0.0 carstyling.com##.banner.boxed
 0.0.0.0 carstyling.com###article_end_popup
 0.0.0.0 cartourmagazin.hu##.banneritem
-0.0.0.0 ! https://github.com/hufilter/hufilter-dev/issues/247
 0.0.0.0 cartourmagazin.hu###sp-right>.sp-column>.sp-module.hidden-mobile
 0.0.0.0 cegbongeszo.hu##[class*="hirdetes"]
 0.0.0.0 cegbongeszo.hu##[class^="adsense"]
@@ -336,7 +333,7 @@
 0.0.0.0 egeszsegkalauz.hu##[class*="ad-"]
 0.0.0.0 egeszsegkalauz.hu##[class^="ads "]
 0.0.0.0 egeszsegkalauz.hu##[id*="banner"]
-0.0.0.0 ! https://github.com/hufilter/hufilter-dev/issues/248
+
 0.0.0.0 egeszsegkalauz.hu###ad-fekvo0
 0.0.0.0 egeszsegkalauz.hu##a[title="Hirdetés"]
 0.0.0.0 egeszsegkalauz.hu##div.wrapAds
@@ -396,7 +393,6 @@
 0.0.0.0 figyelo.hu##[class*="adbox"]
 0.0.0.0 figyelo.hu##[class*="banner"]
 0.0.0.0 filmoldal.hu##DIV[class*="reklam"]
-0.0.0.0 ! https://github.com/hufilter/hufilter/issues/11
 0.0.0.0 filmvilag.me##[href^="https://rosszlanyok.hu/"]
 0.0.0.0 firstman.hu##[class*="banner"]
 0.0.0.0 fn.hu##.fn9_separator
@@ -429,7 +425,6 @@
 0.0.0.0 gamepod.hu###right > .xabrew300.box
 0.0.0.0 geeks.hu##[id*="banner"]
 0.0.0.0 gentleman.hu##.roadblockcont
-0.0.0.0 ! https://github.com/AdguardTeam/AdguardFilters/issues/112570
 0.0.0.0 gepigeny.hu##.act_hun
 0.0.0.0 gepigeny.hu##.adt_hun
 0.0.0.0 glamour.hu##.ibb-banner-decor
@@ -463,7 +458,6 @@
 0.0.0.0 hajdupress.hu##[class*="hirdetes"]
 0.0.0.0 hajdupress.hu##[id*="banner"]
 0.0.0.0 hajokonyha.hu##[class*="hirdetes"]
-0.0.0.0 ! https://github.com/hufilter/hufilter-dev/issues/249
 0.0.0.0 hang.hu##.banner-widget-container
 0.0.0.0 haon.hu##.Ad
 0.0.0.0 haon.hu##.Clear
@@ -578,7 +572,6 @@
 0.0.0.0 hvg.hu##.hosting
 0.0.0.0 hvg.hu##.jobline-palyakezdo-feed
 0.0.0.0 hvg.hu##.lh-calc.bm-caxlc-bo
-0.0.0.0 ! https://github.com/AdguardTeam/AdguardFilters/issues/111757
 0.0.0.0 hvg.hu##.list-article + style + .panelgap
 0.0.0.0 hvg.hu##.selectWidget
 0.0.0.0 hvg.hu##.support-stripe
@@ -885,7 +878,6 @@
 0.0.0.0 napidroid.hu###primary-sidebar
 0.0.0.0 napinemszar.hu##[id*="reklam"]
 0.0.0.0 napinemszar.hu###sidebar
-0.0.0.0 ! https://github.com/hufilter/hufilter/issues/8
 0.0.0.0 napiszar.com##[style="width:300px;height:250px;"]
 0.0.0.0 napiszar.hu##[class*="banner"]
 0.0.0.0 napiszex.hu##.banner
@@ -954,7 +946,6 @@
 0.0.0.0 online.filmek-sorozatok.info##.adsListItem
 0.0.0.0 online.filmek-sorozatok.info##.videoBanner
 0.0.0.0 onlinecegjegyzek.hu##[class*="hirdetes"]
-0.0.0.0 ! https://github.com/hufilter/hufilter-dev/issues/254
 0.0.0.0 onroad.hu##.highlighted-banner
 0.0.0.0 oprend.hu##[class*="ad-warning"]
 0.0.0.0 oprend.hu##[class="ad-blocked"]
@@ -966,7 +957,6 @@
 0.0.0.0 origo.hu##.origo-jatek-randi-bottom
 0.0.0.0 origo.hu##.pr-blokk
 0.0.0.0 origo.hu##.pr-item
-0.0.0.0 ! Gallery ads
 0.0.0.0 origo.hu##.swiper-slide.z-slide
 0.0.0.0 origo.hu##[class*="adbox"]
 0.0.0.0 origo.hu##[class*="banner"]
@@ -1041,7 +1031,6 @@
 0.0.0.0 privatbankar.hu##[src*="/banner/"]
 0.0.0.0 profession.hu###newsletter_footer
 0.0.0.0 profession.hu###twister-banner
-0.0.0.0 ! https://github.com/hufilter/hufilter/pull/10/commits/8b5ecfa97e469a836865f1aba8641d9bbc2e5a8b
 0.0.0.0 prog.hu###zone-roaddblock
 0.0.0.0 prohardver.hu,itcafe.hu,gamepod.hu,logout.hu,hardverapro.hu##.spleft
 0.0.0.0 prohardver.hu,itcafe.hu,gamepod.hu,logout.hu,hardverapro.hu##.spright
@@ -1069,7 +1058,6 @@
 0.0.0.0 romnet.hu##[class*="hirdetes"]
 0.0.0.0 romnet.hu##[id*="banner"]
 0.0.0.0 romnet.hu##[id*="hirdetes"]
-0.0.0.0 ! https://github.com/hufilter/hufilter-dev/issues/150
 0.0.0.0 rp5.ru#@#[id^="aswift_"]
 0.0.0.0 rtlklub.hu##[class*="banner"]
 0.0.0.0 samsungsport.hu##[class*="banner"]
@@ -1094,7 +1082,6 @@
 0.0.0.0 sportorvos.hu##div.sprtrvs-ad
 0.0.0.0 sportorvos.hu##div.tt-shortcode-1
 0.0.0.0 sportorvos.hu##div.tt-shortcode-2
-0.0.0.0 ! https://github.com/hufilter/hufilter-dev/issues/241
 0.0.0.0 starity.hu###menusimple2 + div
 0.0.0.0 starity.hu##div[style="width:100%;height:14px;text-align:left;font-size:9px;letter-spacing:3px;color:#5F5F5F;border-bottom:1px solid #CCC;margin: 10px 0 5px 0;"]
 0.0.0.0 starity.hu##script[async] + [data-widget-id]
@@ -1155,7 +1142,6 @@
 0.0.0.0 sztarklikk.hu##.banner
 0.0.0.0 tech.hu##[class*="banner"]
 0.0.0.0 tech.hu##[id*="banner"]
-0.0.0.0 ! https://github.com/hufilter/hufilter-dev/issues/253
 0.0.0.0 telefonguru.hu##[style="height: 250px"]
 0.0.0.0 telefonkonyv.hu##[class*=" adH"]
 0.0.0.0 telekom.hu##.ads
@@ -1268,7 +1254,6 @@
 0.0.0.0 zoldmano.info##.d-xl-none[style*="padding: 10px"]
 0.0.0.0 zoldmano.info##.post_content_box_article_continue + .text-center
 0.0.0.0 zoldmano.info##.post_content_box_sidebar
-0.0.0.0 ! Section: Specific hide (extended ABP selectors)
 0.0.0.0 5percblog.hu#?#.code-block:-abp-has(script+ins)
 0.0.0.0 ado.hu#?#.whiteBox:-abp-has(.goAdverticum)
 0.0.0.0 agrarszektor.hu#?#div#mymodal:-abp-has(#form-popup)
@@ -1311,11 +1296,8 @@
 0.0.0.0 szineshir.net#?#div.grid_item:-abp-contains(Google Hirdetés)
 0.0.0.0 szineshir.net#?#div.grid_item:-abp-has(>div:-abp-contains(Hirdetés))
 0.0.0.0 ugytudjuk.hu#?#.row:-abp-has(.mainTopBnr)
-0.0.0.0 ! Section: General block
 0.0.0.0 ||*/empty.json
 0.0.0.0 ||*/eu-banned-popup/
-0.0.0.0 ! Section: Specific block
-0.0.0.0 ! https://github.com/hufilter/hufilter-dev/issues/172
 0.0.0.0 /dl/cnt/20[^0]\d-\d{2}/\d{4}//$image,domain=prohardver.hu|mobilarena.hu|itcafe.hu|gamepod.hu|logout.hu|hardverapro.hu
 0.0.0.0 ||0i.hu/files/images/$image
 0.0.0.0 ||3monkey.lol/vilagunk_640.html$domain=vilagunk.hu
@@ -1462,7 +1444,6 @@
 0.0.0.0 ||static.quantcast.mgr.consensu.org/v30/cmpui-popup.js^$domain=szeretlekmagyarorszag.hu
 0.0.0.0 ||stylemagazin.hu/static/template_settings/
 0.0.0.0 ||szegedma.hu/*banners/*.
-0.0.0.0 ! https://github.com/hufilter/hufilter/issues/5
 0.0.0.0 ||szepsegbroker.hu/banner/$image
 0.0.0.0 ||szepsegbroker.hu/elements/bannerz.2019.js^$script
 0.0.0.0 ||talalka.hu/hirdetes/
@@ -1481,7 +1462,6 @@
 0.0.0.0 ||widget.blck4d.com/js/block/widget.js^$script,domain=starity.hu
 0.0.0.0 ||yayo.hu/static/banner/$image
 0.0.0.0 ||zeneszoveg.hu/gfx/skin-*/*.
-0.0.0.0 ! Section: Ad servers
 0.0.0.0 ||a.adnium.com^
 0.0.0.0 ||ad.depo.hu^
 0.0.0.0 ||ad.gyermekevek.hu^
@@ -1543,7 +1523,6 @@
 0.0.0.0 ||up-banner.wavecdn.de^
 0.0.0.0 ||vid4u.org^
 0.0.0.0 ||wstat.ozon.ru^
-0.0.0.0 ! Section: Ad servers third-party
 0.0.0.0 ||9klikk.com^$third-party
 0.0.0.0 ||abmr.net^$third-party
 0.0.0.0 ||ad.hu^$third-party
